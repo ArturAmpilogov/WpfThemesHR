@@ -1,6 +1,6 @@
 ## HOW TO USE IT
 
-Watch small tutorial video http://www.youtube.com/watch?v=U61_0CpTBTo
+Watch small tutorial video https://www.youtube.com/watch?v=NO5rNZjqhhE&t=2s
 
 1. Add theme project to your solution
 2. Paste code in App.xaml:
